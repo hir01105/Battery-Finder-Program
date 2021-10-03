@@ -9,3 +9,4 @@ DOMの基本ということで、特にフレームワークなどは使用せ�
 簡単なレスポンシブデザインにも対応しました。  
 
 ## URL
+https://hir01105.github.io/Battery-Finder-Program/
